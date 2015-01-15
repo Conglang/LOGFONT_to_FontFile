@@ -681,7 +681,6 @@ void CLOGFONT_to_FontFileDlg::copy_font_to_target_folder()
 		{
 			fclose(fp);
 			fclose(fw);
-			assert(0);
 		}
 		int hh = fread(font_data,1,longBytes,fp);
 		fwrite(font_data, longBytes,1, fw);
