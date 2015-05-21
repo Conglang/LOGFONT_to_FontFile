@@ -6,7 +6,8 @@ Support most fonts of English and Chinese.
 
 ![](https://github.com/Conglang/LOGFONT_to_FontFile/blob/master/demo_pic.png)
 
-**The idea is:**<br>
+**The idea is**:
+
 1. Scan all "font name/file name" matches in registry.
 2. Scan font folder path in registry. 
 3. Scan all font files(TTF/OTF/TTC) for their other names beside the registered one.
@@ -16,6 +17,6 @@ Support most fonts of English and Chinese.
 
 Complemented in a rather simple straight-forward way. For a better structured solution [WATCH THIS](http://fontname.codeplex.com/).
 
-References:<br>
+**References**:<br>
 + http://www.microsoft.com/typography/otspec/
 + http://fontname.codeplex.com/
